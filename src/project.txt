@@ -1,0 +1,23 @@
+
+Please complete Assessment [GH5] 'To-Do List' prepared by Leon Cooper: This challenge is designed to test your react skills in making components, mapping data out, managing your state and receiving user input.
+
+You need to create a To-Do List application that has the following features:
+
+• Add items to the list
+• Check items as done
+• Delete individual items from the list
+
+You also need to test for the following
+
+
+• tasks submitted are displayed
+• submission button adds task (fireEvent)
+• deletion of an item removed the element so it is no longer displayed to the user
+
+
+
+Visually this project is completely down to your choice. Get creative and have a look around at existing to-do list applications and designs
+
+Stretch goals
+• Be able to edit items in the list
+• Archive items from the main list into a secondary list
